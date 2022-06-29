@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1028703703090",
+    "project_id": "parkiran-flutter-d939a",
+    "storage_bucket": "parkiran-flutter-d939a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028703703090:android:48632230cf4a64c5edec2b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_parkir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028703703090-mrl7r31febv4n7h1agbk1phff1te38o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_parkir",
+            "certificate_hash": "175c9aa0212e9a8f7a46b55ffeb4b965f8ce2ffd"
+          }
+        },
+        {
+          "client_id": "1028703703090-rkb71vd459ti37lld4oifpm1sdkb4r11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoenC8wKiBUk8WsKFcO9YKAZrIfQhBUHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028703703090-rkb71vd459ti37lld4oifpm1sdkb4r11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
