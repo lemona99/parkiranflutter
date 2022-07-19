@@ -53,6 +53,14 @@ flutter:
   assets:
     - images/background.jpg
     - images/account.png
+    - images/motorbike.png
+    - images/sedan.png
+    - images/lorry.png
+    - images/mall-dinoyo.jpg
+    - images/people-face.jpg
+    - images/motor_scooter.png
+    - images/car_compact.png
+    - images/moving_truck.png
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

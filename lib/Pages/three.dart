@@ -9,10 +9,10 @@ class Halaman3 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Colors.blueGrey,
+        color: Colors.white,
         // ignore: prefer_const_constructors
         child: Center(
-          child: Text('Three'),
+          child: Text('Payment'),
         ),
       ),
     );
